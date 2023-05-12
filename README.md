@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
 <p align="center">
-    <!-- a href="https://github.com/mkeology/mkeology/actions">
+    <a href="https://github.com/mkeology/mkeology/actions">
       <img alt="Tests Passing" src="https://github.com/mkeology/mkeology/workflows/Test/badge.svg" />
-    </a -->
+    </a>
     <a href="https://github.com/mkeology/mkeology/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mkeology/mkeology" />
     </a>
