@@ -3,7 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkeology&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Hacking around mostly on:
+![mkeology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkeology&show_icons=true)
+
+Goofing around mostly with:
 
 ![Terraform](https://img.shields.io/badge/Terraform-8e7cc3.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-f44336.svg?style=for-the-badge&logo=ansible&logoColor=white)
