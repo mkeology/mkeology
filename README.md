@@ -1,4 +1,27 @@
 ### Hi there 👋 
+
+<p align="center">
+    <a href="https://github.com/mkeology/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/mkeology/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/mkeology/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mkeology/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/mkeology/github-readme-stats">
+      <img src="https://codecov.io/gh/mkeology/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/mkeology/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/mkeology/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/mkeology/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mkeology/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+  </p>
+  
 #### here's what I've been up to...
 ![Mkeology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkeology&show_icons=true&hide_title=true&theme=solarized-dark&count_private=true&hide=stars)
 
