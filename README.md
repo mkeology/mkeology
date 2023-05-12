@@ -1,20 +1,20 @@
 ### Hi there 👋 
 
 <p align="center">
-    <a href="https://github.com/mkeology/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/mkeology/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/mkeology/mkeology/actions">
+      <img alt="Tests Passing" src="https://github.com/mkeology/mkeology/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/mkeology/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mkeology/github-readme-stats" />
+    <a href="https://github.com/mkeology/mkeology/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mkeology/mkeology" />
     </a>
-    <a href="https://codecov.io/gh/mkeology/github-readme-stats">
-      <img src="https://codecov.io/gh/mkeology/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/mkeology/mkeology">
+      <img src="https://codecov.io/gh/mkeology/mkeology/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/mkeology/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/mkeology/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/mkeology/mkeology/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/mkeology/mkeology?color=0088ff" />
     </a>
-    <a href="https://github.com/mkeology/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mkeology/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/mkeology/mkeology/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mkeology/mkeology?color=0088ff" />
     </a>
     <br />
     <br />
