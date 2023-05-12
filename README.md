@@ -1,9 +1,7 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=mkeology&show_icons=true&hide_title=true&theme=solarized-dark&count_private=true&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkeology&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![mkeology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkeology&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkeology&layout=compact&theme=solarized-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Goofing around mostly with:
 
