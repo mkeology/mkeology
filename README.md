@@ -1,4 +1,5 @@
-### Hi there 👋 Here's what I've been up to...
+### Hi there 👋 
+## here's what I've been up to...
 ![Mkeology's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkeology&show_icons=true&hide_title=true&theme=solarized-dark&count_private=true&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkeology&layout=compact&theme=solarized-dark&count_private=true&show_icons=true)
