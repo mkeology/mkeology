@@ -5,7 +5,6 @@
 
 Hacking around mostly on:
 
-
 ![Terraform](https://img.shields.io/badge/Terraform-8e7cc3.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-f44336.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-6fa8dc.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -15,7 +14,7 @@ Hacking around mostly on:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)
 
-And I mess around with basically everything else
+And I play around with basically everything else
 <!--
 **mkeology/mkeology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
